@@ -1,0 +1,180 @@
+{
+  "rawList": [
+    [">50","Female","Yes","Yes","Yes","No","Yes","No","No","Yes","No","Yes","Yes","No","No","No","Positive"],
+    [">25 y <=50","Female","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","No","No","No","Positive"],
+    [">25 y <=50","Female","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","No","Yes","Yes","No","Yes","Positive"],
+    [">25 y <=50","Female","Yes","Yes","No","Yes","No","No","Yes","No","No","No","No","No","No","No","Positive"],
+    [">25 y <=50","Female","No","No","Yes","Yes","Yes","No","No","No","No","No","No","Yes","No","No","Positive"],
+    [">50","Female","Yes","No","No","No","Yes","No","No","No","Yes","No","No","No","Yes","No","Positive"],
+    [">50","Male","No","Yes","No","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Positive"],
+    [">50","Male","Yes","Yes","No","Yes","Yes","No","Yes","No","No","No","Yes","Yes","No","No","Positive"],
+    [">25 y <=50","Male","Yes","Yes","Yes","Yes","No","Yes","No","No","No","No","No","No","No","No","Positive"],
+    [">50","Male","Yes","Yes","No","Yes","Yes","No","Yes","No","Yes","No","Yes","Yes","No","No","Positive"],
+    [">50","Male","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","No","Yes","Yes","No","Positive"],
+    [">25 y <=50","Male","Yes","No","Yes","No","No","Yes","No","Yes","Yes","No","No","No","Yes","No","Positive"],
+    [">25 y <=50","Male","No","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","No","No","No","No","Positive"],
+    [">50","Male","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","Yes","Yes","Yes","No","Yes","Positive"],
+    [">25 y <=50","Male","No","No","No","No","No","Yes","No","No","Yes","Yes","No","No","No","Yes","Positive"],
+    [">25 y <=50","Male","No","No","No","Yes","Yes","No","No","No","Yes","No","No","Yes","No","No","Positive"],
+    [">50","Male","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","No","Yes","Yes","Yes","No","No","Positive"],
+    [">25 y <=50","Male","No","Yes","No","No","No","Yes","No","No","No","No","No","No","Yes","No","Positive"],
+    [">50","Male","Yes","Yes","Yes","Yes","Yes","No","Yes","No","Yes","No","Yes","No","Yes","No","Positive"],
+    [">50","Male","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","No","Yes","No","No","No","Positive"],
+    [">25 y <=50","Male","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Positive"],
+    [">25 y <=50","Male","No","No","No","Yes","No","No","No","No","No","Yes","No","No","Yes","No","Positive"],
+    [">50","Male","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Positive"],
+    [">25 y <=50","Male","Yes","Yes","No","Yes","No","No","Yes","Yes","No","No","No","No","No","No","Positive"],
+    [">25 y <=50","Male","Yes","Yes","No","Yes","No","Yes","Yes","Yes","No","No","No","No","No","No","Positive"],
+    [">50","Male","Yes","No","No","No","No","No","Yes","No","No","No","Yes","No","Yes","No","Positive"],
+    [">50","Male","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","No","No","Yes","Yes","Yes","Positive"],
+    [">25 y <=50","Male","Yes","No","Yes","No","No","No","No","No","No","No","Yes","No","Yes","No","Positive"],
+    [">25 y <=50","Female","Yes","No","Yes","Yes","Yes","No","No","No","No","Yes","No","No","No","No","Positive"],
+    [">50","Female","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","Positive"],
+    [">25 y <=50","Female","Yes","Yes","Yes","No","Yes","No","No","No","No","Yes","Yes","No","No","No","Positive"],
+    [">25 y <=50","Female","No","Yes","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Positive"],
+    [">25 y <=50","Female","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","Yes","No","No","Positive"],
+    [">25 y <=50","Female","Yes","Yes","Yes","Yes","No","No","Yes","Yes","No","No","Yes","Yes","No","No","Positive"],
+    [">25 y <=50","Female","No","No","Yes","Yes","No","No","Yes","Yes","No","Yes","Yes","No","No","No","Positive"],
+    [">50","Female","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","No","Yes","Yes","Yes","No","Yes","Positive"],
+    [">25 y <=50","Female","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Positive"],
+    [">25 y <=50","Female","No","No","No","No","No","No","Yes","No","No","No","Yes","Yes","No","No","Positive"],
+    [">50","Female","Yes","Yes","No","Yes","Yes","No","Yes","Yes","No","Yes","Yes","No","No","No","Positive"],
+    [">25 y <=50","Female","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Positive"],
+    [">25 y <=50","Female","No","No","No","No","Yes","No","Yes","Yes","No","No","Yes","No","No","No","Positive"],
+    [">25 y <=50","Female","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Positive"],
+    [">25 y <=50","Female","Yes","Yes","Yes","Yes","No","No","Yes","No","No","Yes","Yes","Yes","No","No","Positive"],
+    [">50","Male","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","No","Yes","No","No","No","Positive"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","Negative"],
+    [">50","Male","No","No","No","No","Yes","No","Yes","No","No","No","No","Yes","No","No","Negative"],
+    [">50","Male","Yes","No","No","No","Yes","No","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"],
+    [">25 y <=50","Male","No","No","No","Yes","No","Yes","No","Yes","No","Yes","No","No","Yes","No","Negative"],
+    [">25 y <=50","Male","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","Negative"],
+    [">50","Male","No","No","No","No","Yes","No","Yes","No","No","No","No","Yes","No","No","Negative"],
+    [">50","Male","Yes","No","No","No","Yes","No","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"],
+    [">25 y <=50","Male","No","No","No","Yes","No","Yes","No","Yes","No","Yes","No","No","Yes","No","Negative"],
+    [">25 y <=50","Male","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Negative"],
+    [">50","Male","No","No","No","Yes","No","No","No","Yes","No","Yes","No","Yes","Yes","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"],
+    [">25 y <=50","Male","No","No","No","Yes","No","No","No","Yes","No","Yes","No","No","Yes","No","Negative"],
+    [">50","Male","No","No","No","Yes","Yes","No","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Negative"],
+    [">50","Female","Yes","Yes","Yes","Yes","No","No","Yes","No","No","No","Yes","No","No","Yes","Positive"],
+    [">25 y <=50","Female","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No","Yes","No","No","No","Positive"],
+    [">50","Female","Yes","Yes","Yes","No","Yes","No","No","Yes","No","Yes","Yes","No","No","No","Positive"],
+    [">25 y <=50","Female","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","No","No","No","Positive"],
+    [">25 y <=50","Female","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","No","Yes","Yes","No","Yes","Positive"],
+    [">25 y <=50","Female","No","No","No","Yes","No","No","Yes","Yes","No","Yes","No","No","Yes","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"],
+    [">25 y <=50","Male","No","No","No","Yes","No","No","No","Yes","No","Yes","No","No","Yes","No","Negative"],
+    [">50","Male","No","No","No","Yes","Yes","No","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Negative"],
+    [">50","Male","No","No","No","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Yes","Yes","No","Negative"],
+    [">25 y <=50","Male","Yes","No","Yes","Yes","No","Yes","No","Yes","No","Yes","No","No","Yes","Yes","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"],
+    [">25 y <=50","Male","No","No","No","Yes","No","Yes","No","Yes","No","No","No","No","Yes","No","Negative"],
+    [">50","Male","No","No","No","Yes","No","No","Yes","Yes","No","Yes","No","Yes","Yes","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","Yes","Negative"],
+    [">50","Female","Yes","Yes","No","Yes","Yes","No","Yes","Yes","No","Yes","Yes","No","No","No","Positive"],
+    [">50","Male","No","No","No","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Yes","Yes","No","Negative"],
+    [">50","Male","Yes","No","Yes","No","No","Yes","No","Yes","Yes","No","No","No","Yes","No","Positive"],
+    [">50","Male","No","No","No","No","Yes","No","Yes","No","No","No","No","Yes","No","No","Negative"],
+    [">50","Male","Yes","No","No","No","Yes","No","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"],
+    [">50","Male","No","No","No","Yes","No","Yes","No","Yes","No","Yes","No","No","Yes","No","Negative"],
+    [">50","Male","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Negative"],
+    [">50","Male","No","No","No","Yes","No","No","No","Yes","No","Yes","No","Yes","Yes","No","Negative"],
+    [">50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"],
+    [">50","Male","No","No","No","Yes","No","No","No","Yes","No","Yes","No","No","Yes","No","Negative"],
+    [">50","Male","No","No","No","Yes","Yes","No","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Negative"],
+    [">50","Female","Yes","Yes","Yes","Yes","No","No","Yes","No","No","No","Yes","No","No","Yes","Positive"],
+    [">50","Female","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No","Yes","No","No","No","Positive"],
+    [">25 y <=50","Female","Yes","Yes","Yes","No","Yes","No","No","Yes","No","Yes","Yes","No","No","No","Positive"],
+    [">25 y <=50","Female","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","No","No","No","Positive"],
+    [">50","Female","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","No","Yes","Yes","No","Yes","Positive"],
+    [">25 y <=50","Female","No","No","No","Yes","No","No","Yes","Yes","No","Yes","No","No","Yes","No","Negative"],
+    [">25 y <=50","Male","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Negative"]
+  ],
+  "field":  ["Age","Gender","Polyuria","Polydipsia","sudden weight loss","weakness","Polyphagia","Genital thrush","visual blurring","Itching","Irritability","delayed healing","partial paresis","muscle stiffness","Alopecia","Obesity","class"  ],
+  "listAttribute": [
+    {
+      "Name": "Age",
+      "Values": ["<=25",">25 y <=50",">50"]
+    },
+    {
+      "Name": "Gender",
+      "Values": ["Male", "Female"]
+    },
+    {
+      "Name": "Polyuria",
+      "Values": ["No", "Yes"]
+    },
+    {
+      "Name": "Polydipsia",
+      "Values": ["No", "Yes"]
+    },
+    {
+      "Name": "sudden weight loss",
+      "Values": ["No", "Yes"]
+    },
+    {
+      "Name": "weakness",
+      "Values": ["No", "Yes"]
+    },
+    {
+      "Name": "Polyphagia",
+      "Values": ["No", "Yes"]
+    },
+    {
+      "Name": "Genital thrush",
+      "Values": ["No", "Yes"]
+    },
+    {
+      "Name": "visual blurring",
+      "Values": ["No", "Yes"]
+    },
+    {
+      "Name": "Itching",
+      "Values": ["No", "Yes"]
+    },
+    {
+      "Name": "Irritability",
+      "Values": ["No", "Yes"]
+    },
+    {
+      "Name": "delayed healing",
+      "Values": ["No", "Yes"]
+    },
+    {
+      "Name": "partial paresis",
+      "Values": ["No", "Yes"]
+    },
+    {
+      "Name": "muscle stiffness",
+      "Values": ["No", "Yes"]
+    },
+    {
+      "Name": "Alopecia",
+      "Values": ["No", "Yes"]
+    },
+    {
+      "Name": "Obesity",
+      "Values": ["No", "Yes"]
+    }
+  ],
+  "goalAttr": {
+    "Name": "class",
+    "Values": ["Positive", "Negative"]
+  }
+}
+
